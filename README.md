@@ -1,1 +1,1 @@
-Treinanando git
+Treinando git
